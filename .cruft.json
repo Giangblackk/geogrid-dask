@@ -1,0 +1,21 @@
+{
+  "template": "https://github.com/cjolowicz/cookiecutter-hypermodern-python",
+  "commit": "af0fd99e72e3afac2dc2b20406b1bee689260be1",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "geogrid-dask",
+      "package_name": "geogrid_dask",
+      "friendly_name": "GeoGrid Dask",
+      "author": "Giang Ngo",
+      "email": "giangblackk@gmail.com",
+      "github_user": "Giangblackk",
+      "version": "0.0.1",
+      "copyright_year": "2023",
+      "license": "GPL-3.0",
+      "development_status": "Development Status :: 1 - Planning",
+      "_template": "https://github.com/cjolowicz/cookiecutter-hypermodern-python"
+    }
+  },
+  "directory": null
+}
