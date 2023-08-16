@@ -16,8 +16,12 @@ classifiers = [
 Changelog = "https://github.com/Giangblackk/geogrid-dask/releases"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.9"
 click = ">=8.0.1"
+dask = {extras = ["distributed"], version = "^2023.8.0"}
+fastapi = "^0.101.1"
+uvicorn = {extras = ["standard"], version = "^0.23.2"}
+bokeh = "^3.2.2"
 
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
