@@ -1,5 +1,5 @@
 """Sphinx configuration."""
-project = "GeoGrid Dask"
+project = "Geogrid Dask"
 author = "Giang Ngo"
 copyright = "2023, Giang Ngo"
 extensions = [
