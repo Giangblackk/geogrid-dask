@@ -1,1 +1,1 @@
-"""GeoGrid Dask."""
+"""Geogrid Dask."""

@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "geogrid-dask"
 version = "0.0.1"
-description = "GeoGrid Dask"
+description = "Geogrid Dask"
 authors = ["Giang Ngo <giangblackk@gmail.com>"]
 license = "GPL-3.0"
 readme = "README.md"

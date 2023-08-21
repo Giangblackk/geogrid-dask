@@ -1,4 +1,4 @@
-# GeoGrid Dask
+# Geogrid Dask
 
 [![PyPI](https://img.shields.io/pypi/v/geogrid-dask.svg)][pypi status]
 [![Status](https://img.shields.io/pypi/status/geogrid-dask.svg)][pypi status]
@@ -29,7 +29,7 @@
 
 ## Installation
 
-You can install _GeoGrid Dask_ via [pip] from [PyPI]:
+You can install _Geogrid Dask_ via [pip] from [PyPI]:
 
 ```console
 $ pip install geogrid-dask
@@ -47,7 +47,7 @@ To learn more, see the [Contributor Guide].
 ## License
 
 Distributed under the terms of the [GPL 3.0 license][license],
-_GeoGrid Dask_ is free and open source software.
+_Geogrid Dask_ is free and open source software.
 
 ## Issues
 

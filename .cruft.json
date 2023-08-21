@@ -6,7 +6,7 @@
     "cookiecutter": {
       "project_name": "geogrid-dask",
       "package_name": "geogrid_dask",
-      "friendly_name": "GeoGrid Dask",
+      "friendly_name": "Geogrid Dask",
       "author": "Giang Ngo",
       "email": "giangblackk@gmail.com",
       "github_user": "Giangblackk",
