@@ -1,7 +1,9 @@
 """Command-line interface."""
 import click
 import uvicorn
+
 from .server.main import app
+
 
 @click.command()
 @click.version_option()

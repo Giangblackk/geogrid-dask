@@ -1,6 +1,7 @@
 from dask.distributed import Client
 from fastapi import FastAPI
 
+
 app = FastAPI()
 
 def inc(x: int) -> int:
