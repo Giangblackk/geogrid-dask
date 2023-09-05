@@ -23,6 +23,7 @@ fastapi = "^0.101.1"
 uvicorn = {extras = ["standard"], version = "^0.23.2"}
 bokeh = "^3.2.2"
 rioxarray = "^0.15.0"
+rio-tiler = "^6.0.2"
 
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
